@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Udi2312/Leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Udi2312/Leetcode/tree/master/0860-lemonade-change) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Udi2312/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Udi2312/Leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Udi2312/Leetcode/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
