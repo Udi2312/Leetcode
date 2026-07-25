@@ -3,7 +3,7 @@ class Solution {
         if(root==null) return 0;
         int count = 0;
         if((long)root.val == targetSum) count++;
-        return count + helper(root.left, targetSum-root.val) + helper(root.right, targetSum-root.val);
+        return count + helper(root.left, targetSum-(long)root.val) + helper(root.right, targetSum-(long)root.val);
     }
     public int pathSum(TreeNode root, int targetSum) {
         if(root==null) return 0;
