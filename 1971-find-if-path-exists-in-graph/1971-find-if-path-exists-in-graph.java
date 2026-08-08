@@ -1,5 +1,5 @@
 class Solution {
-    public void bfs(int start, List<List<Integer>> adj, boolean visited[]){
+    public void bfs(int start, List<List<Integer>> adj, boolean visited[], int end){
         Queue<Integer> q = new LinkedList<>();
         q.add(start);
         visited[start] = true;
@@ -9,6 +9,7 @@ class Solution {
                 if(!visited[e]){
                     q.add(e);
                     visited[e] = true;
+                    if(e==end) return;
                 }
             }
         }
@@ -31,7 +32,7 @@ class Solution {
             adj.get(b).add(a);
         }
 
-        bfs(start,adj,visited);
+        bfs(start,adj,visited, end);
         return visited[end];
     }
 }
