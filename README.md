@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Udi2312/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/Udi2312/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Udi2312/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1927-sum-game](https://github.com/Udi2312/Leetcode/tree/master/1927-sum-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Udi2312/Leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Udi2312/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Udi2312/Leetcode/tree/master/0860-lemonade-change) |
+| [1927-sum-game](https://github.com/Udi2312/Leetcode/tree/master/1927-sum-game) |
 ## Sorting
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/Udi2312/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Udi2312/Leetcode/tree/master/1025-divisor-game) |
+| [1927-sum-game](https://github.com/Udi2312/Leetcode/tree/master/1927-sum-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Udi2312/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/Udi2312/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Udi2312/Leetcode/tree/master/1025-divisor-game) |
+| [1927-sum-game](https://github.com/Udi2312/Leetcode/tree/master/1927-sum-game) |
 ## Tree
 |  |
 | ------- |
