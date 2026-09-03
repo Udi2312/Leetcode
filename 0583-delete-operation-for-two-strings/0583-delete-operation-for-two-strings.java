@@ -22,13 +22,13 @@ class Solution {
 
     public int minDistance(String a, String b) {
         int cs = longestCommonSubsequence(a,b);
-        if(a.length() == b.length()){
-            return (a.length() - cs) * 2;
-        }
-        else{
+        // if(a.length() == b.length()){
+        //     return (a.length() - cs) * 2;
+        // }
+        // else{
           int x = Math.min(a.length() , b.length()) - cs;
           int y = Math.max(a.length() , b.length()) - cs;
           return x + y;
-        }
+        // }
     }
 }
