@@ -26,8 +26,8 @@ class Solution {
         //     return (a.length() - cs) * 2;
         // }
         // else{
-          int x = Math.min(a.length() , b.length()) - cs;
-          int y = Math.max(a.length() , b.length()) - cs;
+          int x = a.length() - cs;
+          int y = b.length() - cs;
           return x + y;
         // }
     }
