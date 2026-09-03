@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Udi2312/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/Udi2312/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Udi2312/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1143-longest-common-subsequence](https://github.com/Udi2312/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1927-sum-game](https://github.com/Udi2312/Leetcode/tree/master/1927-sum-game) |
 ## Two Pointers
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Udi2312/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Udi2312/Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Udi2312/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Udi2312/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Udi2312/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Udi2312/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Udi2312/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -489,4 +491,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Udi2312/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Udi2312/Leetcode/tree/master/0494-target-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Udi2312/Leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Udi2312/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
