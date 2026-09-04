@@ -29,12 +29,12 @@ class Solution {
       String lcs = LCS(a,b);
       int i = 0, j= 0, k = 0;
       String scs = "";
-      while(i < a.length() && j < b.length() && k<lcs.length()){
-        while(i < a.length() && a.charAt(i) != lcs.charAt(k)){
+      while(k<lcs.length()){
+        while(a.charAt(i) != lcs.charAt(k)){
             scs += a.charAt(i);
             i++;
         }
-        while(j < b.length() && b.charAt(j) != lcs.charAt(k)){
+        while(b.charAt(j) != lcs.charAt(k)){
             scs += b.charAt(j);
             j++;
         }
