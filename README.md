@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Udi2312/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Udi2312/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Udi2312/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Udi2312/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Udi2312/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Udi2312/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Udi2312/Leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Udi2312/Leetcode/tree/master/0455-assign-cookies) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Udi2312/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Udi2312/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Udi2312/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Udi2312/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Udi2312/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Udi2312/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Udi2312/Leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Stack
 |  |
