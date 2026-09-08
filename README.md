@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Udi2312/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Udi2312/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Udi2312/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [2786-visit-array-positions-to-maximize-score](https://github.com/Udi2312/Leetcode/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Udi2312/Leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Sliding Window
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Udi2312/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Udi2312/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Udi2312/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2786-visit-array-positions-to-maximize-score](https://github.com/Udi2312/Leetcode/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Udi2312/Leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Stack
 |  |
