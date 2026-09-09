@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Udi2312/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/Udi2312/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Udi2312/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Udi2312/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/Udi2312/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Udi2312/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Udi2312/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Udi2312/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Udi2312/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Udi2312/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/Udi2312/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Udi2312/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Udi2312/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Udi2312/Leetcode/tree/master/0062-unique-paths) |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Udi2312/Leetcode/tree/master/0044-wildcard-matching) |
 | [0509-fibonacci-number](https://github.com/Udi2312/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
