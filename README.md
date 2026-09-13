@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Udi2312/Leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Udi2312/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Udi2312/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1048-longest-string-chain](https://github.com/Udi2312/Leetcode/tree/master/1048-longest-string-chain) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Udi2312/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Udi2312/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Udi2312/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Udi2312/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0424-longest-repeating-character-replacement](https://github.com/Udi2312/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Udi2312/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1048-longest-string-chain](https://github.com/Udi2312/Leetcode/tree/master/1048-longest-string-chain) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Udi2312/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## String
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Udi2312/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Udi2312/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Udi2312/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1048-longest-string-chain](https://github.com/Udi2312/Leetcode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Udi2312/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Udi2312/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Udi2312/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Udi2312/Leetcode/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/Udi2312/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Udi2312/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1048-longest-string-chain](https://github.com/Udi2312/Leetcode/tree/master/1048-longest-string-chain) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Udi2312/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Greedy
 |  |
@@ -102,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Udi2312/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Udi2312/Leetcode/tree/master/0455-assign-cookies) |
+| [1048-longest-string-chain](https://github.com/Udi2312/Leetcode/tree/master/1048-longest-string-chain) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Udi2312/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Udi2312/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Udi2312/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -147,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Udi2312/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Udi2312/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Udi2312/Leetcode/tree/master/1025-divisor-game) |
+| [1048-longest-string-chain](https://github.com/Udi2312/Leetcode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Udi2312/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/Udi2312/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Udi2312/Leetcode/tree/master/1143-longest-common-subsequence) |
