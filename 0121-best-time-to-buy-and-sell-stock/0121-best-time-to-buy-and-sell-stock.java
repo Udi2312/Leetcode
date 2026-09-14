@@ -7,7 +7,7 @@ class Solution {
             if(arr[i] < min){
                 min = arr[i];
                 max = arr[i];
-                pro = Math.max(pro,max-min);
+                // pro = Math.max(pro,max-min);
                 continue;
             }
             if(arr[i] > max){
