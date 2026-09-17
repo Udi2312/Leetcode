@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Udi2312/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Udi2312/Leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Udi2312/Leetcode/tree/master/0213-house-robber-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Udi2312/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Udi2312/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Udi2312/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Udi2312/Leetcode/tree/master/0312-burst-balloons) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Udi2312/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Udi2312/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Udi2312/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Udi2312/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Udi2312/Leetcode/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/Udi2312/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Udi2312/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Udi2312/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Udi2312/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Udi2312/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0287-find-the-duplicate-number](https://github.com/Udi2312/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Udi2312/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Udi2312/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Udi2312/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Udi2312/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Udi2312/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Meet in the Middle
 |  |
@@ -644,4 +648,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Udi2312/Leetcode/tree/master/0075-sort-colors) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Udi2312/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Udi2312/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
