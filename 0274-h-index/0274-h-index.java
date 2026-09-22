@@ -3,7 +3,7 @@ class Solution {
         Arrays.sort(arr);
         int ans = arr[0];
         int i = 1;
-        int j = 1000;
+        int j = arr[arr.length-1];
         while(i<=j){
             int mid = i + (j-i)/2;
             int ct = 0;
