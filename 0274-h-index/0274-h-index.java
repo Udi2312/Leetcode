@@ -1,9 +1,8 @@
 class Solution {
     public int hIndex(int[] arr) {
-        Arrays.sort(arr);
-        int ans = arr[0];
-        int i = 1;
-        int j = arr[arr.length-1];
+        int ans = 0;
+        int i = 0;
+        int j = arr.length;
         while(i<=j){
             int mid = i + (j-i)/2;
             int ct = 0;
