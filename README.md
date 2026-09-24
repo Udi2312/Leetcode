@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Udi2312/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Udi2312/Leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Udi2312/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/Udi2312/Leetcode/tree/master/0169-majority-element) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Udi2312/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Udi2312/Leetcode/tree/master/0013-roman-to-integer) |
 | [0044-wildcard-matching](https://github.com/Udi2312/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Udi2312/Leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Udi2312/Leetcode/tree/master/0072-edit-distance) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Udi2312/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Udi2312/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Udi2312/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Udi2312/Leetcode/tree/master/0070-climbing-stairs) |
