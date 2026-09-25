@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Udi2312/Leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Udi2312/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Udi2312/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Udi2312/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Udi2312/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Udi2312/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Udi2312/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Udi2312/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Udi2312/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/Udi2312/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Udi2312/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Udi2312/Leetcode/tree/master/0058-length-of-last-word) |
@@ -770,4 +772,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Udi2312/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Udi2312/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
