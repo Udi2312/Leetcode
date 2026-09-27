@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Udi2312/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Udi2312/Leetcode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/Udi2312/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Udi2312/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Udi2312/Leetcode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Udi2312/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Udi2312/Leetcode/tree/master/0189-rotate-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Udi2312/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Udi2312/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Udi2312/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Udi2312/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Udi2312/Leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Udi2312/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Udi2312/Leetcode/tree/master/0392-is-subsequence) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Udi2312/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Udi2312/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Udi2312/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Udi2312/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0173-binary-search-tree-iterator](https://github.com/Udi2312/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/Udi2312/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Udi2312/Leetcode/tree/master/0300-longest-increasing-subsequence) |
