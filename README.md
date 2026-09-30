@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Udi2312/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Udi2312/Leetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Udi2312/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/Udi2312/Leetcode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Udi2312/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Udi2312/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Udi2312/Leetcode/tree/master/0312-burst-balloons) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Udi2312/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Udi2312/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Udi2312/Leetcode/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/Udi2312/Leetcode/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/Udi2312/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Udi2312/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Udi2312/Leetcode/tree/master/0994-rotting-oranges) |
@@ -820,4 +822,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Udi2312/Leetcode/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/Udi2312/Leetcode/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
