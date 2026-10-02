@@ -1,91 +1,79 @@
 class Solution {
-
-    class Pair {
-        int i;
-        int j;
-
-        Pair(int i, int j) {
-            this.i = i;
-            this.j = j;
+    class Pair{
+        int r;
+        int c;
+        Pair(int r, int c){
+            this.r = r;
+            this.c = c;
         }
     }
-
-    public int numEnclaves(int[][] grid) {
-
+    public void bfs(int[][] grid , boolean[][] vis, int i , int j){
+        Queue<Pair> q = new LinkedList<>();
         int m = grid.length;
         int n = grid[0].length;
-
-        Queue<Pair> q = new LinkedList<>();
-
-        // Add all boundary land cells
-        for (int i = 0; i < m; i++) {
-
-            if (grid[i][0] == 1) {
-                grid[i][0] = 0;
-                q.add(new Pair(i, 0));
-            }
-
-            if (grid[i][n - 1] == 1) {
-                grid[i][n - 1] = 0;
-                q.add(new Pair(i, n - 1));
-            }
-        }
-
-        for (int j = 0; j < n; j++) {
-
-            if (grid[0][j] == 1) {
-                grid[0][j] = 0;
-                q.add(new Pair(0, j));
-            }
-
-            if (grid[m - 1][j] == 1) {
-                grid[m - 1][j] = 0;
-                q.add(new Pair(m - 1, j));
-            }
-        }
-
-        int[][] directions = {
-            {1, 0},
-            {-1, 0},
-            {0, 1},
-            {0, -1}
-        };
-
-        // Remove all land connected to the boundary
-        while (!q.isEmpty()) {
-
+        vis[i][j] = true;
+        q.add(new Pair(i ,j));
+        while(q.size() > 0){
             Pair p = q.remove();
-
-            int r = p.i;
-            int c = p.j;
-
-            for (int[] dir : directions) {
-
-                int nr = r + dir[0];
-                int nc = c + dir[1];
-
-                if (nr >= 0 && nr < m &&
-                    nc >= 0 && nc < n &&
-                    grid[nr][nc] == 1) {
-
-                    grid[nr][nc] = 0;
-                    q.add(new Pair(nr, nc));
-                }
+            int r = p.r;
+            int c = p.c;
+            if(r>0){
+                if(!vis[r-1][c] && grid[r-1][c] == 1){
+                    q.add(new Pair(r-1,c));
+                    vis[r-1][c] = true;
+                } 
+            }
+            if(c>0){
+                if(!vis[r][c-1] && grid[r][c-1] == 1){
+                    q.add(new Pair(r,c-1));
+                    vis[r][c-1] = true;
+                } 
+            }
+            if(r+1 < m){
+                if(!vis[r+1][c] && grid[r+1][c] == 1){
+                    q.add(new Pair(r+1,c));
+                    vis[r+1][c] = true;
+                } 
+            }
+            if(c+1 < n){
+                if(!vis[r][c+1] && grid[r][c+1] == 1){
+                    q.add(new Pair(r,c+1));
+                    vis[r][c+1] = true;
+                } 
             }
         }
-
-        // Remaining land cells are enclaves
+    }
+    public int numEnclaves(int[][] grid) {
+        int m = grid.length;
+        int n = grid[0].length;
+        boolean[][] vis = new boolean[m][n];
+        for(int i = 0; i<m; i++){
+            for(int j = 0; j<n; j++){
+                if(grid[i][j] == 0) vis[i][j] = true;
+            }
+        }
+        for(int i = 0; i<n; i++){
+            if(grid[0][i] == 1) bfs(grid , vis , 0 , i);
+        }
+        for(int i = 1; i<m; i++){
+            if(grid[i][n-1] == 1) bfs(grid , vis , i , n-1);
+        }
+        if(m > 1){
+        for(int i = n-2; i>=0; i--){
+            if(grid[m-1][i] == 1) bfs(grid , vis , m-1 , i);
+        }
+        }
+        if(n > 1){
+        for(int i = m-2; i>0; i--){
+            if(grid[i][0] == 1) bfs(grid , vis , i , 0);
+        }
+        }
         int ans = 0;
-
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-
-                if (grid[i][j] == 1) {
-                    ans++;
-                }
+        for(int i = 0; i<m; i++){
+            for(int j = 0; j<n; j++){
+                if(!vis[i][j]) ans++;
             }
         }
-
         return ans;
     }
 }
