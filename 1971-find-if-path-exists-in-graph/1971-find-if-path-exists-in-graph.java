@@ -8,6 +8,7 @@ class Solution {
                 if(!vis[e]){
                     vis[e] = true;
                     q.add(e);
+                    if(e==d) return;
                 }
             }
         }
