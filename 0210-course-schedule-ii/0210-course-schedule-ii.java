@@ -2,7 +2,7 @@ class Solution {
     public int[] findOrder(int n, int[][] pre) {
         List<List<Integer>> adj = new ArrayList<>();
         int indegree[] = new int[n];
-        boolean vis[] = new boolean[n];
+        // boolean vis[] = new boolean[n];
         for(int i = 0; i<n; i++) adj.add(new ArrayList<>());
         for(int e[] : pre){
          adj.get(e[1]).add(e[0]);
@@ -13,7 +13,7 @@ class Solution {
         for(int i = 0; i<n; i++){
             if(indegree[i] == 0) {
                 q.add(i);
-                vis[i] = true;
+                // vis[i] = true;
             }
         }
         while(q.size() > 0){
@@ -23,7 +23,7 @@ class Solution {
                 indegree[e]--;
                 if(indegree[e] == 0){
                     q.add(e);
-                    vis[e] = true;
+                    // vis[e] = true;
                 }
             }
         }
