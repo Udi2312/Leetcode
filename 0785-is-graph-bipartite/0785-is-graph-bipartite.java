@@ -1,34 +1,32 @@
 class Solution {
-        static boolean flag = true;
-    public void bfs(int[][] graph, int arr[], int i){
+    static boolean flag;
+    public void bfs(int i , int[][] adj , int[] vis){
         Queue<Integer> q = new LinkedList<>();
         q.add(i);
-        arr[i] = 0;
-        // arr[i] = 0;
+        vis[i] = 0;
         while(q.size() > 0){
             int front = q.remove();
-            int color = arr[front];
-            for(int n: graph[front]){
-                 if(arr[n]==arr[front]){
+            int col = vis[front];
+            for(int e : adj[front]){
+                if(vis[e] == col){
                     flag = false;
                     return;
-                 }
-                 if(arr[n] == -1){
-                    arr[n] = 1-color;
-                    q.add(n);
-                 }
+                }
+                if(vis[e] == -1){
+                    vis[e] = 1-col;
+                    q.add(e);
+                }
             }
         }
     }
     public boolean isBipartite(int[][] graph) {
         flag = true;
         int n = graph.length;
-        // int m = graph[0].length;
-        int arr[] = new int[n];
-        Arrays.fill(arr, -1);
+        int[] vis = new int[n];
+        Arrays.fill(vis , -1);
         for(int i = 0; i<n; i++){
             if(!flag) return false;
-            if(arr[i]==-1) bfs(graph,arr,i);
+            if(vis[i] == -1) bfs(i , graph, vis);
         }
         return flag;
     }
