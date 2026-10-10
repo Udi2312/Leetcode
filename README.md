@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Udi2312/Leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Udi2312/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Udi2312/Leetcode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/Udi2312/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Udi2312/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Udi2312/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Udi2312/Leetcode/tree/master/0169-majority-element) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Udi2312/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Udi2312/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Udi2312/Leetcode/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/Udi2312/Leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Udi2312/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Udi2312/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Udi2312/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Udi2312/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Udi2312/Leetcode/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/Udi2312/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Udi2312/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Udi2312/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Udi2312/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Udi2312/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Udi2312/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Udi2312/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Udi2312/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Udi2312/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Udi2312/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Udi2312/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Udi2312/Leetcode/tree/master/0198-house-robber) |
@@ -723,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Udi2312/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Udi2312/Leetcode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Udi2312/Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Udi2312/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Combinatorics
@@ -842,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Udi2312/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Udi2312/Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Udi2312/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 ## String Matching
 |  |
@@ -869,4 +875,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Udi2312/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Udi2312/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Udi2312/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
