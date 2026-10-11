@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/Udi2312/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/Udi2312/Leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Udi2312/Leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Udi2312/Leetcode/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Udi2312/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/Udi2312/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Udi2312/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Udi2312/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/Udi2312/Leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Udi2312/Leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Udi2312/Leetcode/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Udi2312/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/Udi2312/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Udi2312/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Udi2312/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Udi2312/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Udi2312/Leetcode/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/Udi2312/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Udi2312/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Udi2312/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Udi2312/Leetcode/tree/master/0802-find-eventual-safe-states) |
@@ -636,17 +639,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Udi2312/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Udi2312/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Udi2312/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Udi2312/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Udi2312/Leetcode/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Udi2312/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-path-with-minimum-effort](https://github.com/Udi2312/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Udi2312/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Udi2312/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Udi2312/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Minimum Spanning Tree
