@@ -26,6 +26,7 @@ class Solution {
             int row = front.r;
             int col = front.c;
             int cost = front.cost;
+            if(row == r-1 && col == c-1) break;
             if(row > 0){
                 int e = Math.abs(arr[row][col] - arr[row-1][col]);
                 e = Math.max(e , cost);
