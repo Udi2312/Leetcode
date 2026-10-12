@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Udi2312/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Udi2312/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/Udi2312/Leetcode/tree/master/2786-visit-array-positions-to-maximize-score) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Udi2312/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Udi2312/Leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Sliding Window
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Udi2312/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1048-longest-string-chain](https://github.com/Udi2312/Leetcode/tree/master/1048-longest-string-chain) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Udi2312/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Udi2312/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## String
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Udi2312/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/Udi2312/Leetcode/tree/master/1927-sum-game) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Udi2312/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Udi2312/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -792,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Udi2312/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Udi2312/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Udi2312/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Meet in the Middle
 |  |
 | ------- |
