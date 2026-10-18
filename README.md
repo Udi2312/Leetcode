@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Udi2312/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1514-path-with-maximum-probability](https://github.com/Udi2312/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Udi2312/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Udi2312/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Udi2312/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Udi2312/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Udi2312/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Udi2312/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Udi2312/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Udi2312/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Udi2312/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Udi2312/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Udi2312/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/Udi2312/Leetcode/tree/master/2786-visit-array-positions-to-maximize-score) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Udi2312/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Udi2312/Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Udi2312/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Udi2312/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1927-sum-game](https://github.com/Udi2312/Leetcode/tree/master/1927-sum-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Udi2312/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Udi2312/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Udi2312/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Udi2312/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Udi2312/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Udi2312/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Udi2312/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
@@ -495,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Udi2312/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Udi2312/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Udi2312/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Udi2312/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Udi2312/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
@@ -551,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Udi2312/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Udi2312/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0493-reverse-pairs](https://github.com/Udi2312/Leetcode/tree/master/0493-reverse-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Udi2312/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Linked List
 |  |
 | ------- |
@@ -585,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Udi2312/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Udi2312/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Udi2312/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Udi2312/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/Udi2312/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Udi2312/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Udi2312/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -622,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Udi2312/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Udi2312/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Udi2312/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Udi2312/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Udi2312/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Udi2312/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Udi2312/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -807,10 +815,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Udi2312/Leetcode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Udi2312/Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Udi2312/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Udi2312/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Udi2312/Leetcode/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Udi2312/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -982,4 +992,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Udi2312/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Udi2312/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
