@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Udi2312/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Udi2312/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Udi2312/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Udi2312/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Udi2312/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Udi2312/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Udi2312/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Udi2312/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Udi2312/Leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Udi2312/Leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Udi2312/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -835,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Udi2312/Leetcode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Udi2312/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Udi2312/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Udi2312/Leetcode/tree/master/0287-find-the-duplicate-number) |
