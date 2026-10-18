@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Udi2312/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Udi2312/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Udi2312/Leetcode/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/Udi2312/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Udi2312/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Udi2312/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Udi2312/Leetcode/tree/master/0091-decode-ways) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Udi2312/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Udi2312/Leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Udi2312/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Udi2312/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Udi2312/Leetcode/tree/master/0143-reorder-list) |
