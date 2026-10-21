@@ -5,7 +5,7 @@ class Solution {
         int carry = 0;
         ListNode t1 = l1;
         ListNode t2 = l2;
-        while(t1 != null || t2 != null){
+        while(t1 != null || t2 != null || carry != 0){
             int sum = carry;
             if(t1 != null) sum += t1.val;
             if(t2 != null) sum += t2.val;
@@ -16,10 +16,10 @@ class Solution {
             if(t1 != null) t1 = t1.next;
             if(t2 != null) t2 = t2.next;
         }
-        if(carry != 0){
-            ListNode newNode = new ListNode(carry);
-            curr.next = newNode;
-        }
+        // if(carry != 0){
+        //     ListNode newNode = new ListNode(carry);
+        //     curr.next = newNode;
+        // }
         return dummy.next;
     }
 }
