@@ -1,29 +1,43 @@
 class Solution {
-    public void bfs(int i , int[][] arr, boolean[] vis){
-        vis[i] = true;
-        int n = arr.length;
-        Queue<Integer> q = new LinkedList<>();
-        q.add(i);
-        while(q.size() > 0){
-            int front = q.remove();
-            for(int j = 0; j<n; j++){
-                if(arr[front][j] == 1 && !vis[j]){
-                    q.add(j);
-                    vis[j] = true;
-                }
-            }
+    static int parent[];
+    static int size[];
+
+    public void union(int a , int b){
+        int leaderA = find(a);
+        int leaderB = find(b);
+        if(leaderA != leaderB){
+        if(size[leaderA] > size[leaderB]){
+            parent[leaderB] = leaderA;
+            size[leaderA] += size[leaderB];
         }
+        else{
+            parent[leaderA] = leaderB;
+            size[leaderB] += size[leaderA];
+        }
+        }
+    }
+
+    public int find(int a){
+        if(parent[a] == a) return a;
+        return parent[a] = find(parent[a]);
     }
     public int findCircleNum(int[][] arr) {
         int n = arr.length;
-        int count = 0;
-        boolean isVisited[] = new boolean[n];
+        parent = new int[n+1];
+        size = new int[n+1];
+        for(int i = 1; i<=n; i++){
+            parent[i] = i;
+            size[i] = 1;
+        }
         for(int i = 0; i<n; i++){
-            if(!isVisited[i]){
-                bfs(i,arr,isVisited);
-                count++;
+            for(int j = 0; j<n; j++){
+                if(i != j && arr[i][j] == 1) union(i+1,j+1);
             }
         }
-        return count;
+        int ans = 0;
+        for(int i = 1; i<=n; i++){
+            if(parent[i] == i) ans++;
+        }
+        return ans;
     }
 }
