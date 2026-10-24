@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Udi2312/Leetcode/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Udi2312/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1048-longest-string-chain](https://github.com/Udi2312/Leetcode/tree/master/1048-longest-string-chain) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Udi2312/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Udi2312/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Udi2312/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Udi2312/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Udi2312/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Udi2312/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Udi2312/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Udi2312/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Udi2312/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/Udi2312/Leetcode/tree/master/1927-sum-game) |
 ## Two Pointers
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Udi2312/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Udi2312/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/Udi2312/Leetcode/tree/master/0860-lemonade-change) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Udi2312/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Udi2312/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/Udi2312/Leetcode/tree/master/1927-sum-game) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Udi2312/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Udi2312/Leetcode/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/Udi2312/Leetcode/tree/master/1048-longest-string-chain) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Udi2312/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Udi2312/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Udi2312/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Udi2312/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Udi2312/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
