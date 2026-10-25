@@ -21,7 +21,7 @@ class Solution {
         }
     }
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        if(head.next == null) return null;
+        // if(head.next == null) return null;
         ListNode l = new ListNode(-1);
         l.next = head;
         helper(l , n);
