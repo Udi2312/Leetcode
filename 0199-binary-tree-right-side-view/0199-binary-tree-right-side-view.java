@@ -44,8 +44,6 @@ class Solution {
         List<Integer> ans = new ArrayList<>();
         for(List<Integer> li : list){
             ans.add(li.get(li.size()-1));
-            for(int e : li) System.out.print(e + " ");
-            System.out.println();
         }
         return ans;
     }
