@@ -14,29 +14,36 @@
  * }
  */
 class Solution {
-    List<List<Integer>> ans = new ArrayList<>();
-    public int height(TreeNode root){
-        if(root==null || (root.left==null && root.right==null)) return 0;
-        return 1 + Math.max(height(root.left) , height(root.right));
-    }
-    public void nthlevel(TreeNode root, int n, List<Integer> curr){
-        // List<Integer> curr = new ArrayList<>();
-        if(root==null) return;
-        if(n==1){
-            curr.add(root.val);
-            return;
+    class Pair{
+        TreeNode node;
+        int l;
+        Pair(TreeNode node, int l){
+            this.node = node;
+            this.l = l;
         }
-        nthlevel(root.left,n-1,curr);
-        nthlevel(root.right,n-1,curr);
+    }
+    public List<List<Integer>> rightSideView(TreeNode root) {
+        if(root == null) return new ArrayList<>();
+        Queue<Pair> q = new LinkedList<>();
+        List<List<Integer>> list = new ArrayList<>();
+        q.add(new Pair(root , 0));
+        while(q.size() > 0){
+            Pair front = q.remove();
+            if(list.size() <= front.l){
+                list.add(new ArrayList<>());
+                list.get(front.l).add(front.node.val);
+               if(front.node.left != null) q.add(new Pair(front.node.left, front.l+1));
+               if(front.node.right != null) q.add(new Pair(front.node.right, front.l+1));
+            }
+            else{
+                 list.get(front.l).add(front.node.val);
+               if(front.node.left != null) q.add(new Pair(front.node.left, front.l+1));
+               if(front.node.right != null) q.add(new Pair(front.node.right, front.l+1));
+            }
+        }
+        return list;
     }
     public List<List<Integer>> levelOrder(TreeNode root) {
-        int level = height(root) + 1;
-        if(root==null) return ans;
-        for(int i = 1; i<=level; i++){
-        List<Integer> curr = new ArrayList<>();
-            nthlevel(root,i,curr);
-            ans.add(curr);
-        }
-        return ans;
+        return rightSideView(root);
     }
-    }
+}
