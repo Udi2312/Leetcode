@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Udi2312/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Udi2312/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Udi2312/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Udi2312/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Udi2312/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Udi2312/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Udi2312/Leetcode/tree/master/0437-path-sum-iii) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Udi2312/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Udi2312/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Udi2312/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Udi2312/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Udi2312/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Udi2312/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Udi2312/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Udi2312/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Udi2312/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Udi2312/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Udi2312/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Udi2312/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Udi2312/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Udi2312/Leetcode/tree/master/0437-path-sum-iii) |
@@ -656,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Udi2312/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0209-minimum-size-subarray-sum](https://github.com/Udi2312/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Udi2312/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Udi2312/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0287-find-the-duplicate-number](https://github.com/Udi2312/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Udi2312/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Udi2312/Leetcode/tree/master/0410-split-array-largest-sum) |
