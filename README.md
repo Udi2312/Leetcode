@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Udi2312/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Udi2312/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Udi2312/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/Udi2312/Leetcode/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/Udi2312/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Udi2312/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Udi2312/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Udi2312/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Udi2312/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Udi2312/Leetcode/tree/master/0392-is-subsequence) |
+| [0399-evaluate-division](https://github.com/Udi2312/Leetcode/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/Udi2312/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Udi2312/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Udi2312/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Udi2312/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Udi2312/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Udi2312/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0399-evaluate-division](https://github.com/Udi2312/Leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Udi2312/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/Udi2312/Leetcode/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Udi2312/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -591,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Udi2312/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Udi2312/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Udi2312/Leetcode/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/Udi2312/Leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Udi2312/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Udi2312/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/Udi2312/Leetcode/tree/master/0542-01-matrix) |
@@ -721,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Udi2312/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Udi2312/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Udi2312/Leetcode/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Udi2312/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Udi2312/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Udi2312/Leetcode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Udi2312/Leetcode/tree/master/0721-accounts-merge) |
@@ -740,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Udi2312/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Udi2312/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Udi2312/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Udi2312/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Udi2312/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Udi2312/Leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Udi2312/Leetcode/tree/master/0743-network-delay-time) |
@@ -831,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Udi2312/Leetcode/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/Udi2312/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Udi2312/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Udi2312/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -855,10 +862,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Udi2312/Leetcode/tree/master/0399-evaluate-division) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Udi2312/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Floyd–Warshall Algorithm
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Udi2312/Leetcode/tree/master/0399-evaluate-division) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Udi2312/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Database
 |  |
