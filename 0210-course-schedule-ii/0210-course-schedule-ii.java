@@ -1,39 +1,42 @@
 class Solution {
     public int[] findOrder(int n, int[][] pre) {
-        List<List<Integer>> adj = new ArrayList<>();
+         List<List<Integer>> arr = new ArrayList<>();
+        for(int i = 0; i<n; i++) arr.add(new ArrayList<>());
         int indegree[] = new int[n];
-        // boolean vis[] = new boolean[n];
-        for(int i = 0; i<n; i++) adj.add(new ArrayList<>());
-        for(int e[] : pre){
-         adj.get(e[1]).add(e[0]);
-         indegree[e[0]]++;
+        for(int a[] : pre){
+            arr.get(a[1]).add(a[0]);
+            indegree[a[0]]++;
         }
-        Queue<Integer> q = new LinkedList<>();
+        // boolean[] vis = new boolean[n];
         List<Integer> ans = new ArrayList<>();
+        Queue<Integer> q = new LinkedList<>();
         for(int i = 0; i<n; i++){
-            if(indegree[i] == 0) {
-                q.add(i);
+            if(indegree[i] == 0){
                 // vis[i] = true;
+                q.add(i);
             }
         }
         while(q.size() > 0){
             int front = q.remove();
             ans.add(front);
-            for(int e : adj.get(front)){
-                indegree[e]--;
-                if(indegree[e] == 0){
-                    q.add(e);
-                    // vis[e] = true;
+            // vis[front] = true;
+            for(int a : arr.get(front)){
+                indegree[a]--;
+                if(indegree[a] == 0){
+                    q.add(a);
                 }
             }
         }
-        if(ans.size() == n){
-        int c[] = new int[n];
-        for(int i = 0; i<n; i++){
-            c[i] = ans.get(i);
+        if(ans.size() != n){
+            return new int[]{};
         }
-        return c;
+        else{
+            int a[] = new int[n];
+            int k = 0;
+            for(int i : ans){
+                a[k++] = i;
+            }
+            return a;
         }
-        else return new int[0];
     }
 }
