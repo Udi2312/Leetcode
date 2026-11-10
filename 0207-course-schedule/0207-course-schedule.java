@@ -7,19 +7,19 @@ class Solution {
             arr.get(a[1]).add(a[0]);
             indegree[a[0]]++;
         }
-        boolean[] vis = new boolean[n];
+        // boolean[] vis = new boolean[n];
         List<Integer> ans = new ArrayList<>();
         Queue<Integer> q = new LinkedList<>();
         for(int i = 0; i<n; i++){
             if(indegree[i] == 0){
-                vis[i] = true;
+                // vis[i] = true;
                 q.add(i);
             }
         }
         while(q.size() > 0){
             int front = q.remove();
             ans.add(front);
-            vis[front] = true;
+            // vis[front] = true;
             for(int a : arr.get(front)){
                 indegree[a]--;
                 if(indegree[a] == 0){
