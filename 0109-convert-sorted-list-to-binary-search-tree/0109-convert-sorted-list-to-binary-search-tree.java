@@ -24,28 +24,28 @@
  * }
  */
 class Solution {
-    public TreeNode construct(int[] nums, int l, int h){
-        if(l>h) return null;
-        int mid = (l+h)/2;
-        TreeNode a = new TreeNode(nums[mid]);
-        a.left = construct(nums, l , mid-1);
-        a.right = construct(nums, mid+1 , h);
-        return a;
+    public TreeNode helper(int[] arr , int l , int r){
+        if(l>r) return null;
+        int mid = (l+r)/2;
+        TreeNode n = new TreeNode(arr[mid]);
+        n.left = helper(arr,l,mid-1);
+        n.right = helper(arr,mid+1,r);
+        return n;
     }
     public TreeNode sortedListToBST(ListNode head) {
         ListNode temp = head;
-        int len = 0;
+        int n = 0;
         while(temp != null){
-            len++;
+            n++;
             temp = temp.next;
         }
-        int ans[] = new int[len];
+        int arr[] = new int[n];
         temp = head;
-       for(int i = 0; i<len; i++){
-        ans[i] = temp.val;
-        temp = temp.next;
-       }
-       Arrays.sort(ans);
-       return construct(ans,0,ans.length-1);
+        int k = 0;
+        while(temp != null){
+            arr[k++] = temp.val;
+            temp = temp.next;
+        }
+        return helper(arr,0,n-1);
     }
 }
