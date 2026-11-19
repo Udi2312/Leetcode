@@ -9,33 +9,46 @@
  * }
  */
 class Solution {
-    class Pair implements Comparable<Pair>{
-        int val;
-        ListNode node;
-        Pair(int val , ListNode node){
-            this.val = val;
-            this.node = node;
+    public ListNode merge(ListNode head1, ListNode head2){
+        ListNode d = new ListNode(-1);
+        ListNode temp = d;
+        while(head1 != null && head2 != null){
+            if(head1.val < head2.val){
+                temp.next = head1;
+                head1 = head1.next;
+                temp = temp.next;
+            }
+            else{
+                temp.next = head2;
+                head2 = head2.next;
+                temp = temp.next;
+            }
         }
-        public int compareTo(Pair p){
-            return Integer.compare(this.val, p.val);
+        if(head1==null){
+            while(head2 != null){
+                temp.next = head2;
+                head2 = head2.next;
+                temp = temp.next;
+            }
         }
+        if(head2==null){
+            while(head1 != null){
+                temp.next = head1;
+                head1 = head1.next;
+                temp = temp.next;
+            }
+        }
+        return d.next;
     }
-
+    public ListNode helper(ListNode[] lists , int l, int r){
+        if(l==r) return lists[l];
+        int mid = l + (r-l)/2;
+        ListNode left = helper(lists,l,mid);
+        ListNode right = helper(lists,mid+1,r);
+        return merge(left,right);
+    }
     public ListNode mergeKLists(ListNode[] lists) {
         if(lists.length == 0) return null;
-        PriorityQueue<Pair> pq = new PriorityQueue<>();
-        for(int i = 0; i<lists.length; i++){
-        if(lists[i] == null) continue;
-            pq.add(new Pair(lists[i].val, lists[i]));
-        }
-        ListNode dummy = new ListNode(-1);
-        ListNode temp = dummy;
-        while(pq.size() > 0){
-            Pair front = pq.remove();
-            temp.next = front.node;
-            temp = temp.next;
-            if(front.node.next != null) pq.add(new Pair(front.node.next.val,front.node.next));
-        }
-        return dummy.next;
+        return helper(lists , 0, lists.length-1);
     }
 }
