@@ -53,7 +53,7 @@ class Solution {
             return new Node(grid[x][y] == 1,true);
         }
         else{
-            Node root = new Node(false,false);
+            Node root = new Node(true,false);
             root.topLeft = helper(grid , x, y,n/2);
             root.topRight = helper(grid , x, y+n/2,n/2);
             root.bottomLeft = helper(grid , x+n/2, y,n/2);
