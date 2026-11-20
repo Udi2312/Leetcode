@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Udi2312/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Udi2312/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Udi2312/Leetcode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Udi2312/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Udi2312/Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Udi2312/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Udi2312/Leetcode/tree/master/0045-jump-game-ii) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Udi2312/Leetcode/tree/master/0035-search-insert-position) |
 | [0096-unique-binary-search-trees](https://github.com/Udi2312/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Udi2312/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Udi2312/Leetcode/tree/master/0099-recover-binary-search-tree) |
