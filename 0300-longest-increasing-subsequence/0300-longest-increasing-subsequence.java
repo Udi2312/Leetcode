@@ -6,7 +6,7 @@ class Solution {
             for(int j = i-1; j>=0; j--){
             if(nums[i] > nums[j]){
                if(dp[i] <= dp[j]) dp[i] = 1+dp[j];
-               else dp[i] = Math.max(dp[i],dp[j]);
+            //    else dp[i] = Math.max(dp[i],dp[j]);
             }
         }
     }
